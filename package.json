@@ -9,11 +9,11 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "6.3.0"
+    "version": "7.0.0-rc2"
   },
   "dependencies": {
     "gulp": "^4.0.2",
-    "hexo": "^6.3.0",
+    "hexo": "*",
     "hexo-abbrlink": "^2.2.1",
     "hexo-baidu-url-submit": "^0.0.6",
     "hexo-butterfly-article-double-row": "^1.0.2",
