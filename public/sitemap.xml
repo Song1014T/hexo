@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.yybk.cc/link/index.html</loc>
+    <loc>https://www.yybk.cc/movies/index.html</loc>
     
     <lastmod>2023-09-28</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.yybk.cc/movies/index.html</loc>
+    <loc>https://www.yybk.cc/link/index.html</loc>
     
     <lastmod>2023-09-28</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://www.yybk.cc/categories/index.html</loc>
+    <loc>https://www.yybk.cc/child/index.html</loc>
     
     <lastmod>2023-09-28</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.yybk.cc/child/index.html</loc>
+    <loc>https://www.yybk.cc/categories/index.html</loc>
     
     <lastmod>2023-09-28</lastmod>
     
@@ -346,14 +346,14 @@
 
   
   <url>
-    <loc>https://www.yybk.cc/categories/cocos/</loc>
+    <loc>https://www.yybk.cc/categories/java/</loc>
     <lastmod>2023-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.yybk.cc/categories/java/</loc>
+    <loc>https://www.yybk.cc/categories/cocos/</loc>
     <lastmod>2023-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
